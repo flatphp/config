@@ -1,0 +1,2 @@
+# config
+light config component
